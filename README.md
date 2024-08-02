@@ -1,6 +1,6 @@
 # Myntra-GenZ-Fashion-Integration
 
-### Project Link: https://github.com/KhushiV-2004/Myntra-GenZ-Fashion-Integration/tree/main 
+#### Project Link: https://github.com/KhushiV-2004/Myntra-GenZ-Fashion-Integration/tree/main 
 
 ## Overview
 This repository enhances the Myntra shopping platform by integrating innovative features aimed at GenZ fashion enthusiasts. It includes user-generated design uploads and fashion shows, a GoGreen initiative for recycling, and a Virtual Tryon feature using AR and 3D modeling technology.
